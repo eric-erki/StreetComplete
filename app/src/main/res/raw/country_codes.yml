@@ -165,7 +165,7 @@ NF: [en,pih]
 NG: en
 NI: es
 NL: nl
-NO: [nb,nn,no,se]
+'NO': [nb,nn,'no',se]
 NP: ne
 NR: [na,en]
 NU: [niu,en]
@@ -199,7 +199,7 @@ SE: sv
 SG: [en,ms,zh,ta]
 SH: en
 SI: sl
-SJ: no
+SJ: 'no'
 SK: sk
 SL: en
 SM: it
